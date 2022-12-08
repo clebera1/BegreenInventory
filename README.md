@@ -1,4 +1,4 @@
-<h1> Inventario BeGreen </h1>
+<h1> BeGreen Inventory :seedling: </h1>
 > Status: Developing
 
 ## It's a simple CRUD Project planned by me to make my Job at BeGreen easier.
