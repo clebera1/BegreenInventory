@@ -10,16 +10,13 @@ const ProjectSchema = new mongoose.Schema({
             required: true,
     },
     variedade: {
-        required: true,
 
     },
     quantidade: {
         type: Number,
-        required:true,
     },
     bancada :{
         type: Number,
-        required: true,
     },
     data_plantio: { type: Date, default: Date.now },
 
