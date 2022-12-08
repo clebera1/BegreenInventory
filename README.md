@@ -16,5 +16,6 @@
 
 ## In addition to CRUD, I implement other features such as:
 + See the more recently variety planted on a bench
-+ Search varietys by their id or name
-+ See which variety/allotment is planted on the benches
++ Search varietys by their name, date, allotment and/or benches
+
+
